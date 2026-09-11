@@ -10,6 +10,8 @@ Tablas y esquemas:
 inserciones:
   Inserción de datos para la prueba de las restricciones y campos asignados, utilizado como ejemplo en el vídeo de YT.
 
+FASE II YA INGRESADA
+  Ingesta masiva de datos desde textos planos (CSV o .txt), además de uso de BULK 
 Más Información:
 
 Yt: https://youtu.be/5A3gnMZ-6w0
